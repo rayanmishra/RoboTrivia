@@ -16,6 +16,7 @@ It is just as important to work well with your partner as it is to make a functi
   --displaying the correct answer if wrong choice is selected for 3 seconds<br />
   --automatically going to the next question and resetting the timer<br />
 * Creating a seamless routing experience using React Router
+* Error Handling
 
  ## Technologies Used
 * React.js
